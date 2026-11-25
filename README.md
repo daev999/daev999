@@ -1,6 +1,6 @@
 # Hi, I'm David Ekeocha 👋🏾
 
-### Aspiring Data Analyst | Python Developer | Civil Engineering Graduate
+### Data Analyst | Python Developer | Civil Engineering Graduate
 
 I'm a Civil Engineering graduate with a focus on Structural Engineering, currently building my skills in Data Analytics, Python and SQL.
 
