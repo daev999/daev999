@@ -9,9 +9,9 @@ I enjoy solving problems, working with data and building practical projects to t
 ### 🔭 Currently Working On
 - **Overs Tracker:** A football analytics project built with Python, PostgreSQL and football APIs.
 
-### 🌱 Currently Learning
+### 💪🏾 Skills
 - Python, Pandas and NumPy
-- SQL (PostgreSQL & MySQL)
+- SQL (PostgreSQL)
 - Data Analysis and Statistics
 - Data Science and Machine Learning
 
